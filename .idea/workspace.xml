@@ -25,7 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="761b0210-4e97-43df-bb99-92c992be6451" name="Default Changelist" comment="******" />
+    <list default="true" id="761b0210-4e97-43df-bb99-92c992be6451" name="Default Changelist" comment="******">
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/it/academy/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/it/academy/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
@@ -194,5 +197,9 @@
       <screen x="3440" y="0" width="1858" height="1080" />
     </state>
     <state x="3595" y="408" width="885" height="290" key="MultipleFileMergeDialog/0.0.3378.1440/3440.0.1858.1080@3440.0.1858.1080" timestamp="1648289079344" />
+    <state x="4099" y="290" key="extract.method.dialog" timestamp="1648569357673">
+      <screen x="3440" y="0" width="1858" height="1080" />
+    </state>
+    <state x="4099" y="290" key="extract.method.dialog/0.0.3378.1440/3440.0.1858.1080@3440.0.1858.1080" timestamp="1648569357673" />
   </component>
 </project>
